@@ -13,6 +13,10 @@
 
 - 📫 How to reach me **munirissah2092@gmail.com**
 
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1qZ5ws0XOaZWawejCUaoxXoNU42gCkoPw/view?usp=sharing)
+
+- ⚡ Fun fact **I love breathing life into Dribbble UIs**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ningen_dewa_nai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ningen_dewa_nai" height="30" width="40" /></a>
@@ -27,9 +31,11 @@
 
 ##
 
-
+<details>	
+  <summary><b>GitHub Stats</b></summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muniruissah&show_icons=true&locale=en&layout=compact" alt="muniruissah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muniruissah&show_icons=true&locale=en" alt="muniruissah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muniruissah&" alt="muniruissah" /></p>
+</details>
