@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript,Docker**
 
-- 💬 Ask me about **React,ASP.NET core,Javascript,Typescript**
+- 💬 Ask me about **React,ASP.NET core,C#,Javascript,Typescript**
 
 - 📫 How to reach me **munirissah2092@gmail.com**
 
