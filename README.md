@@ -32,7 +32,7 @@
 ##
 
 <details>	
-  <summary><b>GitHub Stats</b></summary>
+  <summary><h3>GitHub Stats</h3></summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muniruissah&show_icons=true&locale=en&layout=compact" alt="muniruissah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muniruissah&show_icons=true&locale=en" alt="muniruissah" /></p>
