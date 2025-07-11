@@ -5,23 +5,11 @@
 
 ##
 
-
-
-- 🌱 I’m currently learning **Typescript,Docker**
-
-- 💬 Ask me about **React,ASP.NET core,C#,Javascript,Typescript**
+- 🌱 I’m currently learning how to build **AI Agents and Workflows**
 
 - 📫 How to reach me **munirissah2092@gmail.com**
 
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1qZ5ws0XOaZWawejCUaoxXoNU42gCkoPw/view?usp=sharing)
-
-- ⚡ Fun fact **I love breathing life into Dribbble UIs**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ningen_dewa_nai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ningen_dewa_nai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/issah-muniru-b3715a206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="issah-muniru-b3715a206" height="30" width="40" /></a>
-</p>
+- 📄 Check out my [Portfolio](https://itsmuniru.vercel.app)
 
 
 
